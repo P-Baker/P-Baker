@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @P-Baker
-- 👀 I’m interested in data, analytics, AI, ML
+- 👀 I’m interested in data, analytics, AI, ML, music, art, video, new media
 - 🌱 I’m currently learning Postgres, Python
 - 💞️ I’m looking to collaborate on collaboration ideas
 - 📫 How to reach me is by pigeon
